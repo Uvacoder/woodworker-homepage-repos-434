@@ -48,8 +48,8 @@ interface LoaderData {
 
 const repoConfigs: RepoFetchConfig[] = [
   {
-    id: "uvacoder",
-    name: "uvacoder",
+    id: "KodingDev",
+    name: "KodingDev",
     description:
       "Our in-house solutions for smaller, more streamlined projectsabc.",
   },
