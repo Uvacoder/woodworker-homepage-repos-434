@@ -48,8 +48,8 @@ interface LoaderData {
 
 const repoConfigs: RepoFetchConfig[] = [
   {
-    id: "Zeriteabc",
-    name: "Zeriteabc",
+    id: "Zerite",
+    name: "Zerite",
     description:
       "Our in-house solutions for smaller, more streamlined projectsabc.",
   },
