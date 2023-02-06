@@ -48,20 +48,10 @@ interface LoaderData {
 
 const repoConfigs: RepoFetchConfig[] = [
   {
-    id: "Woodworker4303",
-    name: "Woodworker4303",
+    id: "uvacoder",
+    name: "uvacoder",
     description:
       "Our in-house solutions for smaller, more streamlined projectsabc.",
-  },
-  {
-    id: "Britmoji",
-    name: "Britmoji",
-    description: "Small side-projects that aren't quite ready for prime-time.",
-  },
-  {
-    id: "MultifoldLauncher",
-    name: "Multifold",
-    description: "A next-generation cross-platform Minecraft Launcher.",
   },
 ];
 
