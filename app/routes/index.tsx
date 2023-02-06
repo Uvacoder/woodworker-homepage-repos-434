@@ -48,10 +48,10 @@ interface LoaderData {
 
 const repoConfigs: RepoFetchConfig[] = [
   {
-    id: "Zerite",
-    name: "Zerite",
+    id: "Zeriteabc",
+    name: "Zeriteabc",
     description:
-      "Our in-house solutions for smaller, more streamlined projects.",
+      "Our in-house solutions for smaller, more streamlined projectsabc.",
   },
   {
     id: "Britmoji",
@@ -110,7 +110,7 @@ export default function Index() {
           </Flex>
           <Box p="12" pt="4">
             <Center justifyContent={{ lg: "center", md: "start" }} pb="5px">
-              <Heading fontSize="5xl">Hey, we&apos;re Zerite.</Heading>
+              <Heading fontSize="5xl">Hey, we&apos;re Zeriteabc.</Heading>
             </Center>
             <Center justifyContent={{ lg: "center", md: "start" }}>
               <Text fontSize="m" textColor="gray.600">
@@ -169,7 +169,7 @@ export default function Index() {
       <Box as="footer" py="12" px={{ base: "4", md: "8" }} bg="gray.900">
         <Stack>
           <Text as="b" alignSelf={{ base: "center", sm: "start" }}>
-            Zerite Development
+            Zeriteabc Development
           </Text>
           <Text fontSize="sm" alignSelf={{ base: "center", sm: "start" }}>
             &copy; {new Date().getFullYear()} All rights reserved.
