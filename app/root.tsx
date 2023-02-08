@@ -37,9 +37,9 @@ const theme = extendTheme({
 });
 
 export const meta: MetaFunction = () => {
-  const title = "Zerite Development";
+  const title = "Woodworker4303";
   const description =
-    "A team of passionate developers, innovating in the gaming space.";
+    "A few of us who are just trying to understand all this";
   return {
     title,
     description,
