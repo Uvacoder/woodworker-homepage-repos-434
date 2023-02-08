@@ -100,24 +100,24 @@ export default function Index() {
           </Flex>
           <Box p="12" pt="4">
             <Center justifyContent={{ lg: "center", md: "start" }} pb="5px">
-              <Heading fontSize="5xl">Hey, we&apos;re Zeriteabc.</Heading>
+              <Heading fontSize="5xl">We&apos;re Woodworker4303.</Heading>
             </Center>
             <Center justifyContent={{ lg: "center", md: "start" }}>
               <Text fontSize="m" textColor="gray.600">
-                A team of passionate developers, innovating in the gaming space.
+                Just a few people trying to understand this stuff.
               </Text>
             </Center>
             <Center justifyContent={{ lg: "center", md: "start" }}>
               <HStack pt="4" gap="4">
                 <a
-                  href="https://github.com/Zerite"
+                  href="https://github.com/woodworker4303"
                   target="_blank"
                   rel="noreferrer"
                 >
                   <FaGithub size="25" />
                 </a>
                 <a
-                  href="https://twitter.com/ZeriteDev"
+                  href="https://twitter.com/VaLandscapes"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -159,7 +159,7 @@ export default function Index() {
       <Box as="footer" py="12" px={{ base: "4", md: "8" }} bg="gray.900">
         <Stack>
           <Text as="b" alignSelf={{ base: "center", sm: "start" }}>
-            Zeriteabc Development
+            Woodworker4303
           </Text>
           <Text fontSize="sm" alignSelf={{ base: "center", sm: "start" }}>
             &copy; {new Date().getFullYear()} All rights reserved.
