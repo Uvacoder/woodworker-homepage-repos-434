@@ -1,7 +1,7 @@
 # https://woodworker-repos.vercel.app
 
 <p align="center">
-  <img src="screenshot-screenshot-woodworker-repos.png" alt="Next.js and TypeScript">
+  <img src="screenshot-woodworker-repos.png" alt="Next.js and TypeScript">
 </p>
 
 A simple landing page for Woodworker, built using:
